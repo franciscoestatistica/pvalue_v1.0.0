@@ -1,0 +1,227 @@
+﻿en,pt
+WELCOME,BEM-VINDO
+is a free statistical analysis service. DIY!,é um serviço gratuito de análise estatística. FAÇA VOCÊ MESMO!
+Just upload a CSV file:,Apenas envie um arquivo CSV:
+Factors or categorical variables must be standardized and typed in full. Example: (Married - Single - Other) OR (Success - Failure),Fatores ou variáveis ​​categóricas devem ser padronizados e digitados por extenso. Exemplo: (Casado - Solteiro - Outro) OU (Sucesso - Falha)
+Missing values must be registered with,Os valores ausentes devem ser registrados com
+The first column and the first row are reserved for identification of patients and variables,A primeira coluna e a primeira linha são reservadas para identificação de pacientes e variáveis
+respectively.,respectivamente.
+Use the side panel to adjust other CSV settings and click on,Utilize o painel lateral para ajustar outras configurações do CSV e clique em
+ANALYZE MY DATA,ANALISAR MEUS DADOS
+If you have any difficulties,Se você tiver alguma dificuldade
+try to insert your data in our example database:,tente inserir seus dados em nosso banco de dados de exemplo:
+IMPORTANT: Legal Disclaimer,IMPORTANTE: Aviso Legal
+Translate to,Traduza para
+CSV File upload (max 5MB),Upload do arquivo CSV (máx 5 MB)
+CSV separated by,CSV separado por
+Decimals are separated by,Os decimais são separados por
+comma,vírgula
+semicolon,ponto e vírgula
+tab,tab
+space,espaço
+point,ponto
+File,Arquivo
+database is ok?,banco de dados está ok?
+Check your data,Verifique seus dados
+If everything is right,Se estiver tudo certo
+click on,clique em
+If there is an error,Caso haja erro
+try changing the options on the side panel. (decimals or 'CSV configuration').,tente alterar as opções no painel lateral. (decimais ou 'configuração do CSV').
+Upload,Envio
+Data viewer,Ver os dados
+Custom graphics,Customizar gráficos
+Tests,Testes
+Citation,Citação
+Descriptive statistics,Estatísticas descritivas
+View/Download data,Visualizar/Baixar dados
+Histogram,Histograma
+Boxplot,Boxplot(Diagrama de caixa)
+Scatterplot,Dispersão
+2 factors x 2 numbers,2 fatores x 2 números
+Kruskal-Wallis Test,Teste de Kruskal-Wallis
+ANOVA Test,Teste ANOVA
+Mann-Whitney Test,Teste de Mann-Whitney
+Student's t-test,Teste t de Student
+Correlation test,Teste de correlação
+Fisher's exact test,Teste exato de Fisher
+ROC Curve,Curva ROC
+How can I cite this web site in my publication?,Como citar este site em minha publicação ?
+Contact,Contato
+Legal Disclaimer,Aviso Legal
+We are waiting for your contact,Estamos aguardando o seu contato
+if you have any suggestions,Se você tem alguma sugestão
+question or compliment,pregunta ou elogio
+send an email to,envie um e-mail para
+Regards,Att
+The owners of this website,Os proprietários deste site
+are not responsible for,não se responsabilizam por
+and expressly disclaim all liability for,e expressamente negam qualquer responsabilidade por
+damages of any kind arising out of use,danos de qualquer tipo decorrentes de uso
+reference to,referênciar
+or reliance on any information,ou confiar em qualquer informação
+including all results from all statistical calculators,incluindo todos os resultados de todas as calculadoras estatísticas
+contained within this website,contidas neste site
+Please make sure that you understand that the information provided here,Certifique-se de entender que as informações fornecidas aqui
+including the results of statistical calculations,incluindo os resultados dos cálculos estatísticos
+is being provided freely,estão sendo fornecido livremente
+and that no kind of agreement or contract is created between you and the owners of this site,e além disso nenhum tipo de acordo ou contrato é criado entre você e os proprietários deste site
+the owners of the servers upon which it is housed,ou com os proprietários dos servidores nos quais o site está alojado
+or anyone else who is in any way connected with this project,ou qualquer outra pessoa que esteja de alguma forma conectada com este projeto
+In short,Em resumo
+the information within this website is presented as is,as informações contidas neste site são apresentadas como estão
+and you use this site,e você usa este site
+including its statistical calculators,incluindo suas calculadoras estatísticas
+at your own risk,por sua conta e risco
+While we make our best efforts to ensure the accuracy of the calculations performed here,Enquanto fazemos o possível para garantir a precisão dos cálculos realizados aqui
+we cannot rule out the possibility of error,não podemos descartar a possibilidade de erro
+and we will not be held liable in the unfortunate circumstance that such an error arises,e não seremos responsabilizados na infeliz circunstância de que tal erro ocorra
+By using this website,Ao usar este site
+you accept the terms and conditions of this disclaimer,você aceita os termos e condições deste aviso
+Important message - Legal Disclaimer,Mensagem importante - Aviso Legal
+I agree.,Estou de acordo.
+If you have any questions,Se você tem dúvidas
+or need more information to cite,ou precisa de maiores informações para citar o
+send us an email,envie-nos um e-mail
+Other important information!,Outras informações importantes!
+Soon we will make a page to publicize projects that used the,Em breve faremos uma página para divulgar projetos que utilizaram o
+So,Então
+if you want,se você quiser
+we can publicize your,podemos divulgar seu
+article - post - YouTube course,artigo - post - curso do YouTube
+any production,qualquer produção
+that uses the services of,que utilize os serviços do
+or,ou
+Send us an email,Envie-nos um e-mail
+Split by,Dividir por
+What measures do you need?,Quais medidas você precisa?
+Numerical variables,Variáveis numéricas
+Decimal places,Casas decimais
+Categorical variables,Variáveis categóricas
+Descriptive statistics calculated for numerical variables,Estatística descritiva calculada para variáveis ​​numéricas
+Descriptive statistics calculated for categorical variables,Estatística descritiva calculada para variáveis ​​categóricas
+sample size,tamanho da amostra(n)
+mean,média(mean)
+standard deviation,desvio padrão(sd)
+maximum,máximo(max)
+minimum,mínimo(min)
+range,amplitude(range)
+median,mediana(median)
+first quartile,primeiro quartil(q1)
+third Quartile,terceiro quartil(q3)
+interquartile range,intervalo interquartil(IQR)
+Line percentage (%lin),Percentual da linha(%lin)
+Column percentage (%col),Percentual da coluna(%col)
+Number of bins,Número de colunas
+The value of the variable,O valor da variável
+Shapiro-Wilk normality test,Teste de normalidade Shapiro-Wilk
+Subgroup,Subgrupo
+X axis, Eixo X
+Y axis, Eixo Y
+Colors,Cores
+Size,Tamanho
+First factor,Primeiro fator
+Second factor,Segundo fator
+First numerical variable,Primeira variável numérica
+Second numerical variable,Segunda variável numérica
+Insights - Graphical analysis: 2 factors vs. 2 numeric variables,Insights - Análise gráfica: 2 fatores vs. 2 variáveis ​​numéricas
+Compare Groups by,Comparar grupos por
+Boxplot (Kruskal-Wallis Test),Boxplot - Diagrama de caixa (teste de Kruskal-Wallis)
+Result of the Kruskal-Wallis Test,Resultado do teste de Kruskal-Wallis
+Post hoc analysis (p-value for multiple comparisons),Análise post hoc (valor p para comparações múltiplas)
+Decimal places (p-value),Casas decimais (valor p)
+Boxplot (ANOVA Test),Boxplot (Teste ANOVA)
+Result of the ANOVA Test,Resultado do teste ANOVA
+Post hoc analysis (differences between means and p-value),Análise post hoc (diferenças entre médias e valor p)
+Alternative hypothesis,hipótese alternativa
+two-tailed,bicaudal
+greater,unicaudal(maior)
+less,unicaudal(menor)
+Boxplot (Mann-Whitney Test),Boxplot - Diagrama de caixa (teste de Mann-Whitney)
+Result of the Mann-Whitney Test,Resultado do teste de Mann-Whitney
+Boxplot (Student's t-test),Boxplot - Diagrama de caixa (teste t de Student)
+Result of Student's t-test,Resultado do teste t de Student
+Scatterplot (Correlation test),Gráfico de dispersão (teste de correlação)
+Pearson correlation,Correlação de Pearson
+Spearman's rank correlation,Correlação de Spearman
+Kendall rank correlation,Correlação de Kendall
+Lines,Linhas
+Columns,Colunas
+Decimal places (p-value and CI),Casas decimais (valor-p e IC)
+Fisher's exact test - tabulated data,Teste exato de Fisher - dados tabulados
+Results for the Fisher's exact test,Resultados para o teste exato de Fisher
+In tables greater than 2x2 the p-value is estimated through 20x1000 Monte Carlo simulations,Em tabelas maiores que 2x2 o valor-p é estimado através de 20x1000 simulações de Monte Carlo
+Dichotomous outcome,Desfecho dicotômico
+Outcome of interest,Desfecho de interesse
+Bootstrap repetitions,Repetições bootstrap
+bootstrap repetitions,repetições bootstrap
+ROC Curve - The ROC Curve Calculation can take up to 5 minutes,Curva ROC - O cálculo da curva ROC pode levar até 5 minutos
+Results and confidence intervals based on,Resultados e intervalos de confiança com base em
+Variable,Variável
+Measure,Medida
+Total,Total
+Level,Nível
+Parameter,Parâmetro
+Value,Valor
+value,valor
+p-value,valor p
+statistic(W),estatística (W)
+The Shapiro-Wilk test was not performed. The sample must be between 3 and 5x1000,O teste de Shapiro-Wilk não foi realizado. A amostra deve estar entre 3 e 5x1000
+The sample must be between 3 and 5x1000,A amostra deve estar entre 3 e 5x1000
+Estimate,Estimativa
+CI95%,IC95%
+statistic(K-W),estatística(K-W)
+Between groups,Entre grupos
+Within groups,Dentro dos grupos
+Df,Graus de liberdade
+Sum sq,Soma de quadrados
+Mean sq,Quadrado médio
+Statistic,Estatística
+Adjusted p-value,Valor p ajustado
+Difference,Diferença
+Lower limit (95%),Limite inf.(95%)
+Upper limit (95%),Limite sup.(95%)
+statistic(M-W),estatística(M-W)
+equals(var),iguais(var)
+diff.(var),dif.(var)
+Assumption,Suposição
+F(Levene's test),F(teste de Levene)
+T-test,Teste t
+Mean(diff),Média(dif.)
+Sd(diff),Dp(dif.)
+CI95%(diff),IC95%(dif.)
+correlation,correlação
+OR is estimated only in 2x2 tables,OR é estimado apenas em tabelas 2x2
+Odds Ratio(OR),Odds Ratio(OR)
+CI95%(OR),IC95%(OR)
+The base is segmented!,A base está segmentada !
+lines,linhas
+to,para
+Enter parameters to segment the base,Insira os parâmetros para segmentar a base
+SPLIT,DIVIDIR
+RESTORE,RESTAURAR
+The original base had,A base original tinha
+The last base has,A última base tem
+by numeric variable,por variável numérica
+by categorical variable,por variável categórica
+Database segmentation,Segmentar base de dados
+choose the interval,intervalo
+choose levels,níveis
+The base has been restored to the original version,A base foi restaurada para a versão original
+(a group),(grupo a)
+(b group),(grupo b)
+(single group),(grupo único)
+Conclusion,Conclusão
+the data is NOT normally distributed,os dados NÃO são normalmente distribuídos
+the data follows a normal distribution,os dados seguem uma distribuição normal
+Legend,Legenda
+there is a difference between groups,existe diferença entre os grupos
+there is a statistically significant difference between the groups,existe diferença estatísticamente significativa entre os grupos
+it was not possible to prove differences between groups,não foi possível verificar diferenças entre os grupos
+the correlation is significant,a correlação é significativa
+there is an association between variables,existe uma associação entre variáveis
+it was not possible to prove any association between the variables,não foi possível comprovar associação entre as variáveis
+Odds Ratio is significant,Odds Ratio(OR) é significativo
+Odds Ratio was NOT significant,Odds Ratio(OR) NÃO foi significativo
+the unit is not included in the range,a unidade não está inclusa no intervalo
+the range includes the unit,o intervalo inclui a unidade
+statistically significant values,valores estatísticamente significativos
